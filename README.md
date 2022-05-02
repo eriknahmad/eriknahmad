@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, learning, and exploring nature.
 - 🌱 I’m currently learning Spanish and the C programming language.
 - 💞️ I’m looking to collaborate on projects that will expand my knowledge.
-- 📫 How to reach me: Discord-Myth#0548, Email-eriknahmad@gmail.com
+- 📫 How to reach me: Discord-Myth#0548
 
 <!---
 eriknahmad/eriknahmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
